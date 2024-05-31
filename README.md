@@ -23,7 +23,7 @@ Make sure you have Node.js and npm installed on your machine.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/Vasusn/.blog
+   git clone https://github.com/frenyk/.blog
    ```
 
 2. Navigate to the project directory:
